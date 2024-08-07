@@ -1,4 +1,4 @@
- main.py
+main.py
 from pessoa import Pessoa
 
 nome = str(input('Digite o nome: '))
